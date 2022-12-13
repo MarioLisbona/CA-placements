@@ -17,7 +17,8 @@
 
 ## **Links**
 
-- [Github Repo](https://github.com/MarioLisbona/)
+<!-- - [Github Repo](https://github.com/MarioLisbona/) -->
+- <a href='https://github.com/MarioLisbona/' target='_blank'>Github Repo</a>
 - [LinkedIn page](https://www.linkedin.com/in/mario-lisbona-0496b8206/)
 
 ## **Current Studies**
