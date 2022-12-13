@@ -6,7 +6,7 @@
   - [**Table of contents**](#table-of-contents)
   - [**Links**](#links)
   - [**Study**](#study)
-  - [**Coder Academy Project**](#coder-academy-project)
+  - [**Coder Academy Projects**](#coder-academy-projects)
     - [**Profile Website**](#profile-website)
     - [**Terminal app and Documentation**](#terminal-app-and-documentation)
     - [**API Webserver and Documentation**](#api-webserver-and-documentation)
@@ -30,7 +30,7 @@ In term 2 we studied Python, Flask, and PostgreSQL and used those technologies t
 
 We are currently in the process of learning to develop a full stack MERN application and will have to complete a Full Stack App as our final project. Im really enjoying learning React at the moment and seeing how powerful and expressive the framework is.
 
-## **Coder Academy Project**
+## **Coder Academy Projects**
 
 ### **Profile Website**
 
